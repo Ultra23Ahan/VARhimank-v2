@@ -1,5 +1,5 @@
 # [![waylon walker header](https://github.com/VARhimank/VARhimank/blob/main/header.gif)](https://www.linkedin.com/in/himank-varshney-42b96717a/)
-[]([https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif) <br />
+[![gif([https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)]] <br />
 
 Hello 🟢 My name is Himank Varshney and I am a CSE college student. I have interests in **🟢HTML**, **🟢CSS** and **🟢C++** and I can **🟢Design** as well. I'm from India. You can contact me using 🟢[LinkedIn](https://www.linkedin.com/in/himank-varshney-42b96717a/), and [Email](var.himank@gmail.com). I have a lot to learn and I hope you give me the opportunity !
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,git,github,html,js,css,docker)](https://skillicons.dev) <br />
